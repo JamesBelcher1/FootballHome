@@ -9,6 +9,11 @@ h2 {
     text-align: center;
 }
 
+nav {
+    background-color: gold;
+    padding: 10px;
+}
+
 nav ul {
     list-style: none;
     padding: 0;
@@ -20,4 +25,50 @@ nav ul {
 
 .headbackground {
     background-color: red;
+}
+
+section.founding {
+    background-color: #f0f8f0;
+    color: #003300;
+    padding: 40px 20px;
+}
+
+.foundingh2 {
+    color: #a00000;
+}
+
+.foundingp {
+    line-height: 1.7;
+    margin-bottom: 20px;
+}
+
+section.golden {
+    background-color: #fff5cc;
+    color: #a00000;
+    padding: 40px 20px;
+}
+
+.goldenh2 {
+    color: #a00000;
+}
+
+.goldenp {
+    line-height: 1.7;
+    margin-bottom: 20px;
+}
+
+
+section.modern {
+    background-color: #e6f2e6;
+    color: #004400;
+    padding: 40px 20px;
+}
+
+.modernh2 {
+    color: #a00000;
+}
+
+.modernp {
+    line-height: 1.7;
+    margin-bottom: 20px;
 }
